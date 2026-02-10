@@ -8,4 +8,6 @@ This is a simple Python script that scans open ports on a target IP address.
 - Simple and fast scanning
 
 ## How to run
-python port_scanner.py
+- Open terminal
+- Navigate to project folder
+- Run the script: python port_scanner.py
